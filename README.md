@@ -1,3 +1,4 @@
 # Calculator-with-JS
 Calculator without HTML &amp; CSS using only JAVASCRIPT.
-Link to Github Pages url https://debbiejackson14.github.io/Calculator-with-JS/
+Link to Github Pages url [(https://debbiejackson14.github.io/Calculator-with-JS/)
+](https://debbiejackson14.github.io/Calculator-with-JS/)
